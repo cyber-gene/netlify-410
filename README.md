@@ -1,6 +1,6 @@
 # netlify-410
 
-English/ [日本語](README_ja.md)
+English / [日本語](README_ja.md)
 
 Use Netlify to return HTTP status code 410 for all accesses.
 
