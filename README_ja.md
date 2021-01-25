@@ -6,6 +6,8 @@ Netlify を使用し、全ての HTTP アクセスに HTTP ステータスコー
 
 ## How to use
 
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/cyber-gene/netlify-410)
+
 1. このリポジトリをフォークします。
 1. フォークしたリポジトリから、Netlify で新しいサイトを作成します。
 1. サイト設定、デプロイ設定を行います。Basic build settings には何も入力する必要はありません。

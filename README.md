@@ -6,6 +6,8 @@ Use Netlify to return HTTP status code 410 for all accesses.
 
 ## How to use
 
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/cyber-gene/netlify-410)
+
 1. Fork this repository.
 1. Create new site in Netlify.
 1. Setting and deploy site. Basic build settings do not need to be set.
