@@ -11,8 +11,8 @@ Use Netlify to return HTTP status code 410 for all accesses.
 1. Fork this repository.
 1. Create new site in Netlify.
 1. Setting and deploy site. Basic build settings do not need to be set.
-1. Custom domain settings in Netlify. And add a CNAME record to the DNS server you are using.
-1. After adding a CNAME record to your DNS, a TSL certificate will be automatically issued and you will be able to communicate over HTTPS.
+1. Custom domain settings in Netlify. And add a record to the DNS server you are using.
+1. After adding a DNS record to your DNS, a TSL certificate will be automatically issued and you will be able to communicate over HTTPS.
 
 ## Sample site
 
