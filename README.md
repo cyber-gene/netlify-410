@@ -6,11 +6,18 @@ Use Netlify to return HTTP status code 410 for all accesses.
 
 ## How to use
 
+### Deploy to Netilfy
+
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/cyber-gene/netlify-410)
+
+Or manually create a site on Netlify.
 
 1. Fork this repository.
 1. Create new site in Netlify.
 1. Setting and deploy site. Basic build settings do not need to be set.
+
+### Custom domain setting
+
 1. Custom domain settings in Netlify. And add a record to the DNS server you are using.
 1. After adding a record to your DNS, a TSL certificate will be automatically issued and you will be able to communicate over HTTPS.
 
