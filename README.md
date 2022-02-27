@@ -19,7 +19,7 @@ Or manually create a site on Netlify.
 ### Custom domain setting
 
 1. Custom domain settings in Netlify. And add a record to the DNS server you are using.
-1. After adding a record to your DNS, a TSL certificate will be automatically issued and you will be able to communicate over HTTPS.
+1. After adding a record to your DNS, a TLS certificate will be automatically issued and you will be able to communicate over HTTPS.
 
 ## Sample site
 
