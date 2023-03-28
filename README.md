@@ -4,6 +4,11 @@ English / [日本語](README_ja.md)
 
 Use Netlify to return HTTP status code 410 for all accesses.
 
+## NOTICE
+Responses to requests other than GET methods will be 404 instead of 410.
+
+If you want to return a response code of 410 strictly for all requests, please consider other methods.
+
 ## How to use
 
 ### Deploy to Netilfy
